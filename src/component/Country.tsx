@@ -43,7 +43,7 @@ const Country = () => {
   };
 
   useEffect(() => {
-    getCountry("india");
+    getCountry("usa");
   }, []);
   return (
     <div className="country">
