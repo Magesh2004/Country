@@ -18,7 +18,6 @@ interface CountryData {
 
 const Country = () => {
   const [country, setCountry] = useState<CountryData | null>(null);
-  const [search, getSearch] = useState(null);
   const inputRef = useRef<HTMLInputElement>(null);
   const getCountry = async (country: string) => {
     try {
