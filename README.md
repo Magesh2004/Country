@@ -63,5 +63,8 @@ By default, the app loads information for the USA.
 
 ---
 
-## License
-MIT
+## 🙋 **Author & Contact**
+
+**Author:** Magesh Balram
+
+📧 **Email:** [mageshbalram@gmail.com](mailto:mageshbalram@gmail.com)
